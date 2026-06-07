@@ -10,4 +10,5 @@ Kuvi didn’t build another trading tool.
 We built the OS for living capital.
 
 Business Insider just put it in ink.
+
 The future isn’t coming. It’s already orchestrating: # DO
