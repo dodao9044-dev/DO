@@ -11,6 +11,7 @@ Kuvi didn’t build another trading tool.
 Now it spawns daemons.
 
 
+
 Intent declared in plain language.
 
 Markets watched in background.
