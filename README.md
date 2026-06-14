@@ -7,6 +7,7 @@ Intent declared in plain language.
 Markets watched in background.
 Risk, rebalancing, opportunity – all handled autonomously.
 
+
 Kuvi didn’t build another trading tool.
 Now it spawns daemons.
 
