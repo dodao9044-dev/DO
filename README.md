@@ -16,6 +16,7 @@ Strategy used to be static.
 Now it spawns daemons.
 
 
+
 Intent declared in plain language.
 Markets watched in background.
 Risk, rebalancing, opportunity – all handled autonomously.
